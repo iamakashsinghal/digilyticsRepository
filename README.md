@@ -1,5 +1,7 @@
 Springboot Simple CSV Download Project
 
+Git Repository path -- https://github.com/iamakashsinghal/digilyticsRepository
+
 1. Firstly Create DataBase run Command in Mysql Terminal = create database digilytics.
 2. Set Up project in sts ellipse.
 3. You provide mysql database user credentials Like (database name = spring.datasource.url=jdbc:mysql://localhost:3306/digilytics, Username = spring.datasource.username=root, Password = spring.datasource.password=root) in application.properties file then change Auto create database Schema - spring.jpa.hibernate.ddl-auto=create.
